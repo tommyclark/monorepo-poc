@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:tommyclark/lerna-repo-b.git
+	branch = main
+	commit = a28c5ec8ad1f76ae586ad066741b5d659be9819b
+	parent = 610e76e1d037cafde5915584b6c481d2e25acf72
+	method = merge
+	cmdver = 0.4.5
