@@ -1,9 +1,9 @@
 {
-  "name": "workspace-b",
+  "name": "workspace-d",
   "version": "1.0.0",
   "dependencies": {
     "cowsay": "^1.4.0",
-    "workspace-a": "1.0.0"
+    "workspace-c": "1.0.0"
   },
   "scripts": {
     "serve": "node index.js",
