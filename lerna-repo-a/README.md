@@ -1,6 +1,6 @@
 # Lerna monorepo example
 
-This is an example monorepo that uses lerna. There are two packages in the repo: `workspace-a`, and `workspace-b`. Both packages start HTTP servers using `yarn serve`, each returning different responses.
+This is an example monorepo that utilises lerna. There are two packages in the repo: `workspace-a`, and `workspace-b`. Both packages start HTTP servers using `yarn serve`, each returning different responses.
 
 ## Local Testing
 
