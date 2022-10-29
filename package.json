@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "turbo": "^1.6.2"
+  },
+  "scripts": {
+    "lint": "turbo lint",
+    "test": "turbo test",
+    "build": "turbo build",
+    "dev": "turbo dev"
+  },
+  "workspaces": [
+    "lerna-repo-a/packages/*",
+    "lerna-repo-b/packages/*"
+  ]
+}
