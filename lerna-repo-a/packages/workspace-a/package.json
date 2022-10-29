@@ -1,0 +1,12 @@
+{
+  "name": "workspace-a",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "scripts": {
+    "serve": "node index.js",
+	"build": "node build.js"
+  },
+  "license": "MIT"
+}
