@@ -8,6 +8,7 @@
     "build": "turbo build",
     "dev": "turbo dev"
   },
+  "private": true,
   "workspaces": [
     "lerna-repo-a/packages/*",
     "lerna-repo-b/packages/*"
