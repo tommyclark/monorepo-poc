@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:tommyclark/lerna-repo-b.git
 	branch = main
-	commit = b9b1aba6675ff7dcaebda51ed95483f7ff2a87a1
-	parent = a40ad822f993fa81f8d8a157391e5aef441e63b8
+	commit = 2dd39c9a23892fade2bc6dabfa4e32fa40566a2d
+	parent = 9034ca5cb5f5e8c8db7453802fd716a3970b8202
 	method = merge
 	cmdver = 0.4.5
