@@ -21,3 +21,4 @@ If we have made changes to this parent monorepo and want to push those changes t
 ```
 git subrepo push --all
 ```
+The repositories this monorepo is building are [here](https://github.com/tommyclark/lerna-repo-a) and [here](https://github.com/tommyclark/lerna-repo-b)
